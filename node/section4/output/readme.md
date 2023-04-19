@@ -1,0 +1,1 @@
+# Salida de la aplicación
